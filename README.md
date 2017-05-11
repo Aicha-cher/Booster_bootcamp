@@ -15,10 +15,7 @@ programming language.
 This is a crash course in the fundamentals of programming and scientific computing with geoscience applications. We deliver the course by alternating short tutorials with hands-on programming exercises. Participants get practice with programming syntax by following along on their laptops. They receive the entire set of presentations, programs, and course data before the course starts, which amounts to a huge amount of working code that they'll be able to make use of by the end of the course. The course uses standard industry data such as well logs, horizons, and seismic to illustrate computational concepts we all encounter in our daily workflows. We teach using the Python programming language. It's a fantastic language for scientific computing. It is easy-to-learn, powerful, even if it does have a rather daunting ecosystem of thousands of open source code libraries. But fear not, we'll get you set up and well practiced with the handful of ones that you'll use the majority of the time.
 
 **Bring**:
-Participants must bring their own **computers** (Mac, Windows, or Linux) with the
-required **software already installed** (see [What to install](what-to-install)
-below). [Contact Evan and Matt](https://agilescientific.com/contact-us/) if you need any help **before**
-the course. 
+Participants must bring their own **computers** (Mac, Windows, or Linux) with the required **software already installed** (see [What to install](what-to-install) below). [Contact Evan and Matt](https://agilescientific.com/contact-us/) if you need any help **before** the course. 
 
 
 ## Goals
@@ -34,28 +31,24 @@ the course.
 
 ## Schedule
 
-| **Topics** |
-|:-----------|
-| **Part 1** |
-| *Introductions* |
-| Fundamentals of Programming
-| Intro to scientific computing |
-| **Part 2** |
-| 3 Practical Exercises and examples |
+| Topics                             |
+|:----------------------------------:|
+| **Part 1**                         |
+| *Introductions*                    |
+| Fundamentals of programming        |
+| Intro to scientific computing      |
+| **Part 2**                         |
+| 3 Practical exercises and examples |
+
 
 ## What to install
 
-There are many ways to get Python on your system and it can be very confusing
-when you're first starting out.
-I **don't** recommend downloading it from python.org or using the Python that
-came with your system (common on Linux).
-Instead, **use the Anaconda distribution**.
-It will come with all the libraries you'll need and doesn't require
-administrative access to install.
+There are many ways to get Python on your system and it can be very confusing when you're first starting out.
+
+I **don't** recommend downloading it from python.org or using the Python that came with your system (common on Linux). Instead, **use the Anaconda distribution**. It will come with all the libraries you'll need and doesn't require administrator access to install.
 
 Go to https://www.continuum.io/downloads and select the **Python 3.6** version
-of the installer for your system.
-It's safe to use all the default configuration options when installing.
+of the installer for your system. It's safe to use all the default configuration options when installing.
 
 **Even if you already have Python** (say from your system package manager or
 ArcGIS, etc), I recommend that you install Anaconda to avoid problems with
@@ -65,13 +58,13 @@ You'll also need a **text editor**. If you don't already have one of your
 choice, I recommend installing [Sublime Text](https://www.sublimetext.com/)
 (it's available for Linux, Windows, and Mac).
 
+I recommend installing [git](https://www.atlassian.com/git/tutorials/install-git). This will make it easier to clone the course content and keep it up to date.
+
 **Please install all software BEFORE coming to the course.** If you have any
 problems installing or don't know which version you need to download, get in touch.
 
 
-
-## Recommended Literature
-
+## Recommended literature
 
 Other great places to pick up Python:
 
