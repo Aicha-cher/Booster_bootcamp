@@ -3,10 +3,10 @@
 **Instructors:** [Evan Bianco](https://twitter.com/EvanBianco) and [Matt Hall](https://twitter.com/kwinkunks)
 
 **When**:
-May 11, 2017, 8:30 am - 4:00pm
+June 9, 2017,
 
 **Where**:
-geoLOGIC Classroom   540 5th Ave SW   Calgary, AB
+Booster, Total Paris
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
@@ -38,7 +38,7 @@ Participants must bring their own **computers** (Mac, Windows, or Linux) with th
 | Fundamentals of programming        |
 | Intro to scientific computing      |
 | **Part 2**                         |
-| 3 Practical exercises and examples |
+| Practical exercises and examples |
 
 
 ## What to install
